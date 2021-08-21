@@ -4,6 +4,7 @@
 
 Trabalho como Analista Desenvolvedor de sistemas e minhas ferramentas favoritas são Python e o Django.
 
+Para ver algo assim no seu perfil do GitHub crie um repositorio com o nome do seu usuário e adicione um arquivo `README.md`. Enjoy!
 
 <!--
 **aranteslucas10/aranteslucas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
