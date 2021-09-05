@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white?)](https://www.linkedin.com/in/lucas-arantes-ab74a541/)
 
-Trabalho como Analista Desenvolvedor de Sistemas e minhas ferramentas favoritas são [Python](https://www.python.org/) ❤️ e o [Django](https://www.djangoproject.com/) 💚.
+Trabalho como **Analista Desenvolvedor de Sistemas** e minhas ferramentas favoritas são [Python](https://www.python.org/) ❤️ e o [Django](https://www.djangoproject.com/) 💚.
 
 No trabalho utilizo o editor [Visual Studio Code](https://code.visualstudio.com/), mas em casa meu editor favorito é o [Emacs](https://www.gnu.org/software/emacs/). 😍
 
