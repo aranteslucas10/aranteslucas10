@@ -8,7 +8,6 @@ No trabalho utilizo o editor [Visual Studio Code](https://code.visualstudio.com/
 
 #### Alguns dos cursos que realizei recentemente:
 
-
 | Curso                                  | Escola         | Link                                                                                                             |
 |:---------------------------------------|:---------------|:-----------------------------------------------------------------------------------------------------------------|
 | Fundamentos de Arquitetura de Software | Code.Education | [Certificado](https://drive.google.com/file/d/1GI938Xi61C2LZvBV7jPlflDo9zmtbKjm/view?usp=sharing)                |
