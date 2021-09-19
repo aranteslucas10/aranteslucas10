@@ -10,13 +10,13 @@ No trabalho utilizo o editor [Visual Studio Code](https://code.visualstudio.com/
 
 | Curso                                  | Escola         | Link                                                                                                             |
 |:---------------------------------------|:---------------|:-----------------------------------------------------------------------------------------------------------------|
-| Fundamentos de Arquitetura de Software | Code.Education | [Certificado](https://drive.google.com/file/d/1GI938Xi61C2LZvBV7jPlflDo9zmtbKjm/view?usp=sharing)                |
-| Docker                                 | Code.Education | [Certificado](https://drive.google.com/file/d/1UxY3YB2qEVQX5kDdXYC2IFZqdWIP8_jB/view?usp=sharing)                |
-| Autenticação e Keycloak                | Code.Education | [Certificado](https://drive.google.com/file/d/1KU99gGCo11Nl2MF4Brz7ZXNF7OU_OqyL/view?usp=sharing)                |
-| Apache Kafka                           | Code.Education | [Certificado](https://drive.google.com/file/d/1mMNTrnF_JtNrGkzwg9qXyKGoLB6Zn4fI/view?usp=sharing)                |
-| RabbitMQ                               | Code.Education | [Certificado](https://drive.google.com/file/d/1CuejfwmUWywKe96GIjwnN60S3V6hgJ6p/view?usp=sharing)                |
-| REST APIs with Flask and Python        | Udemy          | [Certificado](https://drive.google.com/file/d/1WbDLeuRNTKJvosRvBmuTop8xQzyjPAlA/view?usp=sharing)                |
-| APIs REST com Django                   | School of Net  | [Certificado](https://www.schoolofnet.com/validar-certificado/?certificate=6a85e878-7a64-4267-936a-90fd7ebc1b43) |
+| Fundamentos de Arquitetura de Software | [Code.Education](https://code.education/) | [Certificado](https://drive.google.com/file/d/1GI938Xi61C2LZvBV7jPlflDo9zmtbKjm/view?usp=sharing)                |
+| Docker                                 | [Code.Education](https://code.education/) | [Certificado](https://drive.google.com/file/d/1UxY3YB2qEVQX5kDdXYC2IFZqdWIP8_jB/view?usp=sharing)                |
+| Autenticação e Keycloak                | [Code.Education](https://code.education/) | [Certificado](https://drive.google.com/file/d/1KU99gGCo11Nl2MF4Brz7ZXNF7OU_OqyL/view?usp=sharing)                |
+| Apache Kafka                           | [Code.Education](https://code.education/) | [Certificado](https://drive.google.com/file/d/1mMNTrnF_JtNrGkzwg9qXyKGoLB6Zn4fI/view?usp=sharing)                |
+| RabbitMQ                               | [Code.Education](https://code.education/) | [Certificado](https://drive.google.com/file/d/1CuejfwmUWywKe96GIjwnN60S3V6hgJ6p/view?usp=sharing)                |
+| REST APIs with Flask and Python        | [Udemy](https://www.udemy.com/course/rest-api-flask-and-python/)          | [Certificado](https://drive.google.com/file/d/1WbDLeuRNTKJvosRvBmuTop8xQzyjPAlA/view?usp=sharing)                |
+| APIs REST com Django                   | [School of Net](https://www.schoolofnet.com/)  | [Certificado](https://www.schoolofnet.com/validar-certificado/?certificate=6a85e878-7a64-4267-936a-90fd7ebc1b43) |
 
 **Obs.:** Para ver algo assim no seu perfil do GitHub crie um repositorio com o nome do seu usuário e adicione um arquivo `README.md`. Enjoy! 😄
 
